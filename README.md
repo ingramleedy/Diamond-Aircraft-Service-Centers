@@ -42,7 +42,7 @@ The pack includes worldwide Diamond Aircraft authorized locations, categorized a
 | Category                  | Icon Style | Example Locations | Notes |
 |---------------------------|------------|-------------------|-------|
 | Sales / Distributors     | Green Target | Premier Aircraft Sales (USA), Aeropole Denmark (Denmark) | Handles sales and partnerships; often includes demo flights and purchasing support. |
-| Service Centers          | Blue Airport | Diamond Aircraft Industries (Austria), Various global ASCs | Authorized maintenance and repairs; certified for DA20, DA40, DA42, DA62 models. |
+| Service Centers          | Orange Target | Diamond Aircraft Industries (Austria), Various global ASCs | Authorized maintenance and repairs; certified for DA20, DA40, DA42, DA62 models. |
 | Training / Flight Schools| Red School  | Flight schools affiliated with Diamond | Simulator and flight training centers for type ratings and recurrent training. |
 
 *Fly safe: Always verify center details directly with Diamond or the location before planning visits. Data is fetched from official sources but may change.*
