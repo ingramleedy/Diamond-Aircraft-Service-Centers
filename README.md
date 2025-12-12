@@ -5,7 +5,7 @@ This repository provides **source code** to generate KML files and a **ForeFligh
 The content pack displays centers as custom map layers in ForeFlight, categorized by type (Service Centers, Distributors/Sales Partners, Training Centers), and integrates seamlessly with terrain, hazard advisor, profile view, and sectional charts for better route planning.
 
 <p align="center">
-   <img width="600" src="docs/img/diamonds.png" />
+   <img width="600" src="docs/imgs/Diamonds.png" />
  
 </p>
 
