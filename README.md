@@ -18,16 +18,6 @@ Locations are grouped into categories:
 
 The Python script automates fetching and parsing data from Diamond's endpoint, ensuring the content stays up-to-date with minimal effort. Generated KML files can be viewed in Google Earth or imported into ForeFlight.
 
-### Enhanced Usage with ForeFlight
-
-For optimal use, import the content pack into ForeFlight to overlay Diamond centers on your maps. This allows quick access to contact details, addresses, and notes directly in the app's popups.
-
-- **Activation:** Download the `.ffc` content pack from the Releases section and import via ForeFlight's "More > Custom Content" menu.
-- **In-Flight Integration:** Centers appear as tappable waypoints with rich HTML descriptions, including clickable emails, phones, and websites.
-- **Subscription Note:** Custom content packs require a ForeFlight **Basic** subscription or higher. For advanced mapping features like Hazard Advisor, consider Pro Plus or Performance plans.
-
-Combine with ForeFlight's route planning to find the nearest Diamond service center during cross-country flights.
-
 ## Inspiration and Credits
 
 This content pack is inspired by and builds upon community efforts to make Diamond Aircraft location data more accessible:
@@ -53,19 +43,20 @@ The pack includes worldwide Diamond Aircraft authorized locations, categorized a
 
 ## How to Generate and Use
 
+1. **Download Pre-Generated Files:**
+   - Check the [DiamondCenters.zip](https://github.com/ingramleedy/Diamond-Aircraft-Service-Centers/blob/main/DiamondCenters.zip?raw=true) section for ready-to-use ForeFlight content pack.
+
+2. **Import into ForeFlight:**
+   - Transfer files to your iPad/iPhone via AirDrop, email, or cloud storage.
+   - In ForeFlight: More > Custom Content > Add > Select the pack.
+   - Enable the layer in Maps > Layers.
+
+## How to Generate new KML files
 1. **Run the Script:**
    - Clone this repository.
    - Install dependencies: `pip install requests beautifulsoup4`.
    - Run `python generate_kml.py` (or similar script name) to fetch data and create KML files.
    - For ForeFlight pack: Use tools like [ForeFlight Content Pack Creator](https://foreflight.com/support/custom-content) to bundle KMLs`.
-
-2. **Download Pre-Generated Files:**
-   - Check the [DiamondCenters.zip](https://github.com/ingramleedy/Diamond-Aircraft-Service-Centers/blob/main/DiamondCenters.zip?raw=true) section for ready-to-use ForeFlight content pack.
-
-3. **Import into ForeFlight:**
-   - Transfer files to your iPad/iPhone via AirDrop, email, or cloud storage.
-   - In ForeFlight: More > Custom Content > Add > Select the pack.
-   - Enable the layer in Maps > Layers.
 
 ## Contributing
 
