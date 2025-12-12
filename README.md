@@ -31,7 +31,7 @@ This content pack is inspired by and builds upon community efforts to make Diamo
 - **[Diamond Aircraft](https://www.diamondaircraft.com/en/service-and-support/service-center-locations/)** – Primary source for all authorized center data, fetched via map API. All location information is credited to Diamond Aircraft Industries.
 - **[Diamond Aviators Forum Thread](https://www.diamondaviators.net/forum/viewtopic.php?p=103010&hilit=kml#p103010)** – Special thanks to Marlon for the original exhaustive work in compiling and sharing KML data for Diamond centers. This repository automates Marlon's foundational efforts to keep the data current and converts it into a distributable ForeFlight content pack.
 - **[Premier Aircraft Sales (Fort Lauderdale)](https://www.premieraircraftsales.com)** – Grateful acknowledgment for their assistance with instruction, purchasing, and maintenance of my Diamond DA40NG.
-- **[MyFlight (Patrick Abel)](https://myflight.com)** – Thanks to Patrick Abel for expert guidance on Diamond aircraft ownership, training, and upkeep.
+- **[MyFlight (Patrick Abel)](https://flymyflight.com)** – Thanks to Patrick Abel for expert guidance on Diamond aircraft ownership, training, and upkeep.
 
 This automation script was developed to simplify updates and distribution, ensuring pilots have the latest information without manual recreation.
 
