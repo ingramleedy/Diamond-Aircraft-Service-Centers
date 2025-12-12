@@ -56,13 +56,6 @@ The pack includes worldwide Diamond Aircraft authorized locations, categorized a
    - Transfer files to your iPad/iPhone via AirDrop, email, or cloud storage.
    - In ForeFlight: More > Custom Content > Add > Select the pack.
    - Enable the layer in Maps > Layers.
-
-## How to Generate new KML files
-1. **Run the Script:**
-   - Clone this repository.
-   - Install dependencies: `pip install requests beautifulsoup4`.
-   - Run `python generate_kml.py` (or similar script name) to fetch data and create KML files.
-   - For ForeFlight pack: Use tools like [ForeFlight Content Pack Creator](https://foreflight.com/support/custom-content) to bundle KMLs`.
   
 ## Addendum: Syncing Content Packs via Cloud Storage (e.g., OneDrive)
 
@@ -108,6 +101,13 @@ For users who want to easily manage and sync the **Diamond Aircraft Authorized C
 
 This setup ensures your Diamond Aircraft Authorized Centers content pack is always accessible and up-to-date across devices without manual transfers. For more details, refer to ForeFlight's OneDrive Integration Support and Content Packs Support. If using Dropbox instead, the process is similar, with the folder at ~/Dropbox/Apps/ForeFlight/contentpack/.
 
+## How to Generate new KML files
+1. **Run the Script:**
+   - Clone this repository.
+   - Install dependencies: `pip install requests beautifulsoup4`.
+   - Run `python generate_kml.py` (or similar script name) to fetch data and create KML files.
+   - For ForeFlight pack: Use tools like [ForeFlight Content Pack Creator](https://foreflight.com/support/custom-content) to bundle KMLs`.
+   - 
 
 ## Contributing
 
